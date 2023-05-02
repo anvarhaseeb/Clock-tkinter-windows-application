@@ -1,5 +1,4 @@
-# Clock-tkinter-windows-application
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 To convert it into application ,install pyinstaller
 "pip install pyinstaller"
